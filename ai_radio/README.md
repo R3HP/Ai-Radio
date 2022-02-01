@@ -1,6 +1,12 @@
 # ai_radio
 
-A new Flutter project.
+an Ai Radio App With Flutter,
+
+using Alan Ai interface,
+Audio Player Package
+
+
+note: base on YouTube Toturial
 
 ## Getting Started
 
